@@ -1,5 +1,7 @@
-class Artist 
+ class Artist 
   attr_accessor :name 
-end 
 
-artist = Artist.new 
+  
+ end 
+ 
+ artist = Artist.new
